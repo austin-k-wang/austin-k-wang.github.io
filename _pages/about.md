@@ -2,6 +2,8 @@
 layout: about
 title: about
 permalink: /
+nav: true
+nav_order: 1
 subtitle: Incoming @ ByteDance Seed. Caltech CS.
 
 profile:
@@ -25,4 +27,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-**TODO**: write bio
+Hi! I'm Austin, a Caltech CS graduate. I'll be joining ByteDance Seed this summer to work on generative models research. During my undergrad, I was fortunate to do research in the labs of Prof. Yisong Yue from Caltech and Prof. Stefano Ermon from Stanford, where I worked on several projects relating to the post-training and inference-time scaling of diffusion models.
+
+**TODO**: Write about research interests
