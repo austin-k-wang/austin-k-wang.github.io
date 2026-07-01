@@ -14,7 +14,7 @@ profile:
     <p>Palo Alto, CA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -29,4 +29,4 @@ latest_posts:
 
 Hi! I'm Austin, a Caltech CS graduate. I'll be joining ByteDance Seed this summer to work on generative models research. During my undergrad, I was fortunate to do research in the labs of Prof. [Yisong Yue](https://www.yisongyue.com/) from Caltech and Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/) from Stanford, where I worked on several projects relating to the post-training and inference-time scaling of diffusion models.
 
-**TODO**: Write about research interests
+My research focuses on developing efficient and principled algorithms that unlock new capabilities from generative models. I am particularly interested in post-training, inference-time scaling, and controllable generation: how to adapt powerful models to better satisfy rewards, constraints, and downstream objectives. More broadly, I aim to design methods that make generative models more capable, reliable, and accessible across scientific and creative applications.
