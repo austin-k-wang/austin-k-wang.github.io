@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-03'
+  last_updated: '2026-07-06'
 papers:
   T9JkZngAAAAJ:Tyk-4Ss8FVUC:
     citations: 1
@@ -18,7 +18,7 @@ papers:
     title: 'Beyond Pairwise Preferences: Listwise Reward-Aware Alignment for Diffusion Models'
     year: '2026'
   T9JkZngAAAAJ:eQOLeE2rZwMC:
-    citations: 58
+    citations: 59
     title: 'Inversebench: Benchmarking plug-and-play diffusion models for scientific inverse problems'
     year: '2025'
   T9JkZngAAAAJ:u5HHmVD_uO8C:
