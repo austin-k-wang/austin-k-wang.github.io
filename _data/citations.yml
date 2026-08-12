@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-08-12'
 papers:
   T9JkZngAAAAJ:Tyk-4Ss8FVUC:
-    citations: 1
+    citations: 2
     title: 'Ensemble Kalman Sampling and Diffusion Prior in Tandem: A Split Gibbs Framework'
     year: Unknown Year
   T9JkZngAAAAJ:W7OEmFMy1HYC:
@@ -10,18 +10,18 @@ papers:
     title: 'Blade: A derivative-free bayesian inversion method using diffusion priors'
     year: '2025'
   T9JkZngAAAAJ:Y0pCki6q_DkC:
-    citations: 5
+    citations: 7
     title: Discrete diffusion trajectory alignment via stepwise decomposition
-    year: '2025'
+    year: '2026'
   T9JkZngAAAAJ:_FxGoFyzp5QC:
     citations: 0
     title: 'Beyond Pairwise Preferences: Listwise Reward-Aware Alignment for Diffusion Models'
     year: '2026'
   T9JkZngAAAAJ:eQOLeE2rZwMC:
-    citations: 59
+    citations: 71
     title: 'Inversebench: Benchmarking plug-and-play diffusion models for scientific inverse problems'
     year: '2025'
   T9JkZngAAAAJ:u5HHmVD_uO8C:
-    citations: 12
+    citations: 15
     title: 'Ensemble kalman diffusion guidance: A derivative-free method for inverse problems'
-    year: '2024'
+    year: '2025'
