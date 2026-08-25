@@ -4,7 +4,7 @@ title: about
 permalink: /
 nav: false
 nav_order: 1
-subtitle: Researcher @ ByteDance Seed. Caltech CS.
+subtitle: Research Scientist @ ByteDance Seed. Caltech CS.
 
 profile:
   align: right
