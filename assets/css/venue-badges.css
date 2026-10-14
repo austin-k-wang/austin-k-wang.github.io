@@ -1,0 +1,5 @@
+.publications ol.bibliography li .abbr abbr.badge,
+.publications ol.bibliography li .abbr abbr.badge div,
+.publications ol.bibliography li .abbr abbr.badge a {
+  color: #fff !important;
+}
