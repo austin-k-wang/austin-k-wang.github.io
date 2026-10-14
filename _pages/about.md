@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<link rel="stylesheet" href="{{ '/assets/css/venue-badges.css' | relative_url }}">
+
 Hi! I'm Austin, a Caltech CS graduate and researcher at ByteDance Seed, where I currently work on post-training for visual foundation models. During my undergrad, I was fortunate to do research in the labs of Prof. [Yisong Yue](https://www.yisongyue.com/) from Caltech and Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/) from Stanford.
 
 My research focuses on developing efficient and principled algorithms that unlock new capabilities from generative models. I am particularly interested in post-training, inference-time scaling, and controllable generation: how to adapt powerful models to better satisfy rewards, constraints, and downstream objectives. More broadly, I aim to design methods that make generative models more capable and accessible across creative and scientific applications.

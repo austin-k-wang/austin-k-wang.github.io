@@ -13,6 +13,8 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<link rel="stylesheet" href="{{ '/assets/css/venue-badges.css' | relative_url }}">
+
 <div class="publications">
 
 {% bibliography %}
